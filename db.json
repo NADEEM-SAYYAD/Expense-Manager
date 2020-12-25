@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "NADEEMSYD",
+      "fullname": "NADEEM",
+      "email": "sayyadnad121@gmail.com",
+      "gender": "Male",
+      "mobile": "8087258781",
+      "educa": "HSC",
+      "comment": "COOL COMMENT WILL GO HERE",
+      "isagree": true,
+      "hobbies": [
+        "Watching Movies",
+        "Playing Cricket"
+      ]
+    },
+    {
+      "id": 2,
+      "username": "KARANSHARMA",
+      "fullname": "Karan Sharma",
+      "email": "karan.sharma@gmail.com",
+      "gender": "Male",
+      "mobile": "9999999999",
+      "educa": "Graduate",
+      "comment": "Karan is hard working guy",
+      "isagree": true,
+      "hobbies": [
+        "Other"
+      ]
+    },
+    {
+      "username": "NADEEMSYD",
+      "fullname": "NADEEM",
+      "email": "sayyadnad121@gmail.com",
+      "gender": "Male",
+      "mobile": "8087258781",
+      "educa": "HSC",
+      "hobbies": [
+        "Watching Movies",
+        "Playing Cricket",
+        "Reading Books"
+      ],
+      "comment": "OK",
+      "isagree": true,
+      "id": 3
+    },
+    {
+      "username": "ROHAND",
+      "fullname": "ROHAN",
+      "email": "rohan.deshmukh@gmail.com",
+      "gender": "Male",
+      "mobile": "8087258781",
+      "educa": "2",
+      "hobbies": [
+        "Watching Movies",
+        "Playing Cricket",
+        "Reading Books"
+      ],
+      "comment": "Don't know",
+      "isagree": true,
+      "id": 4
+    }
+  ]
+}
